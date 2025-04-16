@@ -122,7 +122,7 @@ function EducationLeft({ data }) {
                     </p>
                     <p className="jsx-915351de2799a1b5">
                       I'm an undergraduate at STEKOM University pursuing a
-                      Bachelor’s Degree in Computer Engineering with a full
+                      Bachelor's Degree in Computer Engineering with a full
                       scholarship.
                     </p>
                   </div>
@@ -146,7 +146,7 @@ function EducationLeft({ data }) {
             height="200"
             decoding="async"
             data-nimg="1"
-            className="h-[200px] hidden md:block"
+            className="h-[200px] block"
             style={{ color: "transparent" }}
             src="./react.svg"
             animate={{ rotate: 360 }}
