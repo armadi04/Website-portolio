@@ -14,7 +14,7 @@ const AboutMeImage = () => {
       {/* Wrapper untuk memberi ruang hover */}
       <div className="relative z-10 w-full flex flex-col items-center justify-center text-center">
         <DirectionAwareHover
-          imageUrl="../../public/images/pantai1.jpg"
+          imageUrl="/images/pantai1.jpg"
           className="w-full h-auto rounded-2xl"
           imageClassName="object-cover object-bottom rounded-2xl filter brightness-80 contrast-105"
           childrenClassName="bottom-0 left-0 right-0"

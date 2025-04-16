@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="../../public/images/OriginalPerson.png"
+        src="/images/OriginalPerson.png"
         alt="Armadi Nurhidayat"
         className="max-h-[400px] w-auto"
       />
