@@ -9,7 +9,7 @@ const projects = [
     name: "Linktree TopLoker",
     year: "January 2025",
     align: "right",
-    image: "/images/linktreeTopLoker.png",
+    image: "/images/Toploker.png",
     link: "https://toploker.vercel.app/",
   },
   {
