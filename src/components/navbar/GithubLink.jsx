@@ -17,9 +17,7 @@ function GitHubLink() {
         onMouseLeave={() => setIsHovered(false)}
       >
         <FaGithub className="text-4xl" />
-        <span className="font-semibold text-2xl sm:hidden md:block">
-          armadi04
-        </span>
+        <span className="font-semibold text-2xl md:block">armadi04</span>
       </a>
 
       {/* Tooltip */}
