@@ -38,7 +38,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4 max-md:mb-1"
       >
-        A Passionate Web Developer <br /> with 4+ months of experience.
+        A Passionate Web Developer <br /> with 4+ months of experiences.
       </motion.p>
       <motion.div
         variants={fadeIn("up", 0.6)}
