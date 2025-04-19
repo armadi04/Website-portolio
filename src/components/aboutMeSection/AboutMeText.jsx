@@ -12,11 +12,11 @@ const AboutMeText = () => {
         achieve their goals.
       </p>
       <p className="text-xl mt-2">
-        I'm a passionate Frontend Web Developer with a focus on creating
-        elegant, high-performance web applications. My journey in software
-        development began with a curiosity about how digital experiences are
-        built, and has evolved into a professional pursuit of creating software
-        that makes a difference..
+        I am a passionate Frontend Web Developer with a focus on creating
+        elegant and high-performance web applications. My journey in the world
+        of Programming, began with a curiosity about how digital experiences are
+        built and a willingness to learn new things to create a capable web
+        design.
       </p>
       <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer">
         <Link
